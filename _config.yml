@@ -1,0 +1,14 @@
+layout_spectrum: 0.45295692584477365
+typography_spectrum: 0.7021772884763777
+color:
+  brandStrength: 0.1360582325141877
+  lightness: 0.1271436191163957
+  saturation: 0.30367462430149317
+  rhythmicContrast: 0.1178381631616503
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: PathoIndia
